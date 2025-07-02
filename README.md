@@ -3,7 +3,6 @@
 !
 
 # Detailed Blog Link:
-🔗 https://sumanprasad.hashnode.dev/end-to-end-cicd-pipeline-using-aws-cloud-for-my-portfolio-website
 
 # ABSTRACT 
 
