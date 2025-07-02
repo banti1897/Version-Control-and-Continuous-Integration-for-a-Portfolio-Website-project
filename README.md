@@ -1,6 +1,6 @@
 # BTech_CTIS-_Complete-CI-CD-pipeline-using-AWS-for-an-Application_2019-B-15112001A
 
-![image](https://user-images.githubusercontent.com/55047333/232679755-4521f08d-be8a-41cc-b8f0-eb48403483ce.png)
+!
 
 # Detailed Blog Link:
 🔗 https://sumanprasad.hashnode.dev/end-to-end-cicd-pipeline-using-aws-cloud-for-my-portfolio-website
